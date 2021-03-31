@@ -1,12 +1,12 @@
 ![growthmindset](https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
 # Table of content
 
-|#|Title|
-|-|-----|
-|1|[Growth mindset](lab02b/Growth-mindset)|
-|2|[Markdown on GitHub](lab02b/Markdown-on-GitHub)|
-|3|[Getting Started with GitHub Pages](lab02b/Getting-Started-with-GitHub-Pages)|
-|4|[Git Seeing Your Remote](lab02b/Git-Seeing-Your-Remote)|
+number|Title
+---|-----
+1|[Growth mindset](lab02b/Growth-mindset)
+2|[Markdown on GitHub](lab02b/Markdown-on-GitHub)
+3|[Getting Started with GitHub Pages](lab02b/Getting-Started-with-GitHub-Pages)
+4|[Git Seeing Your Remote](lab02b/Git-Seeing-Your-Remote)
 
 
 
