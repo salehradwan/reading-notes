@@ -1,7 +1,7 @@
 ![growthmindset](https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
 # Table of content
 
-number|Title
+#|Title
 ---|-----
 1|[Growth mindset](lab02b/Growth-mindset)
 2|[Markdown on GitHub](lab02b/Markdown-on-GitHub)
