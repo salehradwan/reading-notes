@@ -1,5 +1,6 @@
 ![growthmindset](https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
 # Table of content
+
 |#|Title|
 |-|-----|
 |1|[Growth mindset](lab02b/Growth-mindset)|
