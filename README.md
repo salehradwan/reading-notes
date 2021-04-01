@@ -8,6 +8,7 @@
 3|[Getting Started with GitHub Pages](lab02b/Getting-Started-with-GitHub-Pages)
 4|[Git Seeing Your Remote](lab02b/Git-Seeing-Your-Remote)
 5|[Create a new page in HTML](lab02b/how-to-create-website)
+6|[Create a java Script](lab02b/Read04)
 
 
 
