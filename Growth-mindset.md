@@ -1,5 +1,18 @@
 ![grouth](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
+# Growth mindset 
+` The experience is the best proof and evidence, the more you do with your hands, the better the results will be. `
+
+ ## _Perseverance, gumption traps, and maintaining a **growth mindset**_ 
+ 1. Adaptability 
+ 1. Curiosity 
+ 1. Ambition and Initiative 
+ 
+ >Growing at work, and outside work too 
+
+ ## Links 
+ * [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
+ 
 # How you can benefit from a growth mindset
 The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 The concept of a growth mindset is a popular topic lately, and I sometimes say to myself “Self, you need to embrace the growth mindset. The growth mindset is cool.”
