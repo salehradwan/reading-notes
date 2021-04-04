@@ -9,9 +9,7 @@
 4|[Git Seeing Your Remote](lab02b/Git-Seeing-Your-Remote)
 5|[Create a new page in HTML](lab02b/how-to-create-website)
 6|[Create a java Script](lab02b/Read04)
-
-
-
+7|[logical operators and Loops](lab02b/Read05)
 
 # Growth mindset 
 ` The experience is the best proof and evidence, the more you do with your hands, the better the results will be. `
