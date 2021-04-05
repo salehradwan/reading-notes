@@ -9,7 +9,8 @@
 4|[Git Seeing Your Remote](Git-Seeing-Your-Remote)
 5|[Create a new page in HTML](how-to-create-website)
 6|[Create a java Script](Read04)
-7|[logical operators and Loops](Read05)
+7|[logical operators and Loops](Read06)
+8|[Learn CSS](Read05)
 
 
 
