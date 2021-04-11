@@ -1,6 +1,6 @@
 ![welcome](https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg)
 
-# Code 102 and 201 reading notes
+# Code 201 Reading Notes
 ## This repository comprises code 102 with code 201
 # Table of content
 
