@@ -15,6 +15,7 @@
 7|[logical operators and Loops](102/Read05)
 8|[Learn CSS](102/Read06)
 9|[Introduction to HTML & JavaScript](201/class-01)
+10|[Text & Intro CSS & Instructions Javascript](201/class-02)
 
 
 
