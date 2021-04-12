@@ -1,8 +1,8 @@
 ![welcome](https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg)
 
-# Code 201 Reading Notes
 ## This repository comprises code 102 with code 201
 # Table of content
+# code 102 Reading Notes
 
 #|Title
 ---|-----
@@ -14,9 +14,14 @@
 6|[Create a java Script](102/Read04)
 7|[logical operators and Loops](102/Read05)
 8|[Learn CSS](102/Read06)
-9|[Introduction to HTML & JavaScript](201/class-01)
-10|[Text & Intro CSS & Instructions Javascript](201/class-02)
 
+
+# Code 201 Reading Notes
+
+#|Title
+---|-----
+1|[Introduction to HTML & JavaScript](201/class-01)
+2|[Text & Intro CSS & Instructions Javascript](201/class-02)
 
 
  * [GitHub Profile](https://github.com/salehradwan/) 
