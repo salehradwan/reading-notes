@@ -22,6 +22,7 @@
 ---|-----
 1|[Introduction to HTML & JavaScript](201/class-01)
 2|[Text & Intro CSS & Instructions Javascript](201/class-02)
+3|[Text & Intro CSS & Instructions Javascript](201/class-02)
 
 
  * [GitHub Profile](https://github.com/salehradwan/) 
