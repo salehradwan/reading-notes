@@ -24,6 +24,8 @@
 2|[Text, Intro CSS & Instructions Javascript](201/class-02)
 3|[Lists, Boxes, Decisions & Loops](201/class-03)
 4|[Links, Layout & Functions](201/class-04)
+5|[Images, Color & Text](201/class-05)
+
 
 
  * [GitHub Profile](https://github.com/salehradwan/) 
