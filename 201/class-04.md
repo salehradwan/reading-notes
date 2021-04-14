@@ -111,3 +111,33 @@ function functionName(parameters) {
 functionName();
 ```
 ![function](https://res.cloudinary.com/practicaldev/image/fetch/s--gpPaBQGY--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/1S3N0m1Z1L11/Image%25202018-07-12%2520at%252011.45.54%2520AM.png)
+
+# **Pair Programming**
+![pair](https://images.ctfassets.net/k428n7s2pxlu/1aJnbCcUvAa4qiIg4kMeI/9c93dd78ff2c7c5ffbff3e14f5878a87/6-reasons-for-pair-programming.jpg)
+
+## 6 Reasons for Pair Programming
+### How does pair programming work?
+While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
+
+### Why pair program?
+While learning to code, developers likely study several programming languages. Similar to a foreign language class, there are four fundamental skills that help anyone learn a new language: Listening: hearing and interpreting the vocabulary Speaking: using the correct words to communicate an idea Reading: understanding what written language intends to convey Writing: producing from scratch a meaningful
+
+Pair programming touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
+
+1. Greater efficiency: 
+It is a common misconception that pair programming takes a lot longer and is less efficient. 
+
+2. Engaged collaboration: 
+When two programmers focus on the same code, the experience is more engaging and both programmers are more focused than if they were working alone. 
+
+3. Learning from fellow students: 
+Everyone has a different approach to problem solving; working with a teammate can expose developers to techniques they otherwise would not have thought of.
+
+4. Social skills: 
+Pair programming is great for improving social skills. When working with someone who has a different coding style, communication is key. This can become more difficult when two programmers have different personalities.
+
+5. Job interview readiness: 
+A common step in many interview processes involves pair programming between a current employee and an applicant, either in person or through a shared screen. 
+
+6. Work environment readiness
+Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product. Code Fellows graduates who are already familiar with how pairing works can hit the ground running at a new job, with one less hurdle to overcome.
