@@ -26,6 +26,7 @@
 4|[Links, Layout & Functions](201/class-04)
 5|[Images, Color & Text](201/class-05)
 6|[Object & Document Object Model](201/class-06)
+7|[Tables, Functions, Methods, & Objects](201/class-07)
 
 
 
