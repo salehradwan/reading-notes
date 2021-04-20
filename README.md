@@ -28,6 +28,7 @@
 6|[Object & Document Object Model](201/class-06)
 7|[Tables, Functions, Methods, & Objects](201/class-07)
 8|[CSS Layout](201/class-08)
+9|[Forms, Lists, Tables & Events](201/class-09)
 
 
 
