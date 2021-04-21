@@ -29,6 +29,7 @@
 7|[Tables, Functions, Methods, & Objects](201/class-07)
 8|[CSS Layout](201/class-08)
 9|[Forms, Lists, Tables & Events](201/class-09)
+10|[Error Handling & Debugging](201/class-10)
 
 
 
