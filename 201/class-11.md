@@ -165,20 +165,8 @@ The overview page gives you a snapshot of the key information you are
 likely to want to know. In particular, it tells you how many people are
 coming to your site.
 
-# ** JS **
-## SELECTING ELEMENTS BY TAG NAME
-The get El ementsByTagName ()
-method allows you to select
-elements using their tag name.
-## SELECTING ELEMENTS USING CSS SELECTORS
-querySe 1 ector() returns
-the first element node that
-matches the CSS-style selector.
-querySe 1ectorA11 () returns a
-Nodelist of all of the matches.
-## LOOPING THROUGH A NODELIST
-If you want to apply the same
-code to numerous elements,
-looping through a Nodelist is a
-powerful technique.
+# **Flash**
+### Flash is a very popular technology used to add animations, video, and audio to websites. This chapter begins by looking at how to use it in your web pages.
 
+We then focus on how to add video and audio to your site,
+using either the new HTML5 `<video>` and `<audio>` elements or a hosted service (such as YouTube or SoundCloud).
