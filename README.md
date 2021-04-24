@@ -30,6 +30,7 @@
 8|[CSS Layout](201/class-08)
 9|[Forms, Lists, Tables & Events](201/class-09)
 10|[Error Handling & Debugging](201/class-10)
+11|[Images & Practical Information](201/class-11)
 
 
 
