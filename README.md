@@ -32,6 +32,7 @@
 10|[Error Handling & Debugging](201/class-10)
 11|[Images & Practical Information](201/class-11)
 12|[CHART JS](201/class-12)
+13|[Local Storage](201/class-13)
 
 
 
