@@ -34,6 +34,7 @@
 12|[CHART JS](201/class-12)
 13|[Local Storage](201/class-13)
 14|[CSS Transforms, Transitions, and Animations](201/class-14)
+15|[What Google Learned From Its Quest to Build the Perfect Team](201/class-14b)
 
 
 
