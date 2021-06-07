@@ -47,6 +47,7 @@
 ---|-----
 1|[Introduction to React and Components](301/class-01)
 2|[React: Component Lifecycle Events](301/class-02)
+2|[Passing Functions as Props](301/class-03)
 
 
  * [GitHub Profile](https://github.com/salehradwan/) 
