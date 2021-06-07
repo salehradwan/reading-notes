@@ -46,7 +46,7 @@
 #|Title
 ---|-----
 1|[Introduction to React and Components](301/class-01)
-
+2|[React: Component Lifecycle Events](301/class-02)
 
 
  * [GitHub Profile](https://github.com/salehradwan/) 
