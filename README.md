@@ -1,7 +1,11 @@
 ![welcome](https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg)
 
-## This repository comprises code 102 with code 201
+# Reading Notes
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
 # Table of content
+
 # code 102 Reading Notes
 
 #|Title
@@ -35,6 +39,13 @@
 13|[Local Storage](201/class-13)
 14|[CSS Transforms, Transitions, and Animations](201/class-14)
 15|[What Google Learned From Its Quest to Build the Perfect Team](201/class-14b)
+
+
+# Code 301 Reading Notes
+
+#|Title
+---|-----
+1|[Introduction to React and Components](301/class-01)
 
 
 
