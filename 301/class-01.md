@@ -92,3 +92,6 @@ class ParentComponent extends Component {
 1. Defining Attribute & Data
 1. Passing Data using Props
 1. Rendering Props Data
+
+
+## Things I want to know more about
