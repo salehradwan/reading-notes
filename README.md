@@ -49,7 +49,7 @@
 2|[React: Component Lifecycle Events](301/class-02)
 3|[Passing Functions as Props](301/class-03)
 4|[React and Forms](301/class-04)
-5|[Putting it all together](301/class-04)
+5|[Putting it all together](301/class-05)
 
 
  * [GitHub Profile](https://github.com/salehradwan/) 
