@@ -51,6 +51,7 @@
 4|[React and Forms](301/class-04)
 5|[Putting it all together](301/class-05)
 6|[NODE.JS](301/class-06)
+7|[REST](301/class-07)
 
 NODE.JS
 
