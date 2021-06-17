@@ -53,6 +53,8 @@
 6|[NODE.JS](301/class-06)
 7|[REST](301/class-07)
 9|[FUNCTIONAL PROGRAMMING](301/class-09)
+10|[ In memory storage](301/class-10)
+
 
 NODE.JS
 
