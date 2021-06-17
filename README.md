@@ -52,6 +52,7 @@
 5|[Putting it all together](301/class-05)
 6|[NODE.JS](301/class-06)
 7|[REST](301/class-07)
+7|[API's](301/class-08)
 9|[FUNCTIONAL PROGRAMMING](301/class-09)
 10|[ In memory storage](301/class-10)
 
