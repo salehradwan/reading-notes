@@ -8,7 +8,7 @@
 
 # code 102 Reading Notes
 
-#|Title
+# |Title
 ---|-----
 1|[Growth mindset](102/Growth-mindset)
 2|[Markdown on GitHub](102/Markdown-on-GitHub)
@@ -22,7 +22,7 @@
 
 # Code 201 Reading Notes
 
-#|Title
+# |Title
 ---|-----
 1|[Introduction to HTML & JavaScript](201/class-01)
 2|[Text, Intro CSS & Instructions Javascript](201/class-02)
@@ -40,10 +40,9 @@
 14|[CSS Transforms, Transitions, and Animations](201/class-14)
 15|[What Google Learned From Its Quest to Build the Perfect Team](201/class-14b)
 
-
 # Code 301 Reading Notes
 
-#|Title
+# |Title
 ---|-----
 1|[Introduction to React and Components](301/class-01)
 2|[React: Component Lifecycle Events](301/class-02)
@@ -56,12 +55,6 @@
 9|[FUNCTIONAL PROGRAMMING](301/class-09)
 10|[In memory storage](301/class-10)
 11|[Authentication](301/class-11)
+12|[Mongo and Mongoose](301/class-12)
 
-
-
-NODE.JS
-
- * [GitHub Profile](https://github.com/salehradwan/) 
-
- 
-
+* [GitHub Profile](https://github.com/salehradwan/)
