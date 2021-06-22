@@ -57,5 +57,7 @@
 11|[Authentication](301/class-11)
 12|[Mongo and Mongoose](301/class-12)
 13|[CRUD](301/class-13)
+14|[Diversity & Inclusion in the Tech Industry](301/class-14)
+
 
 * [GitHub Profile](https://github.com/salehradwan/)
