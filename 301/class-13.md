@@ -1,4 +1,4 @@
-##CRUD
+# CRUD
 
 - 100’s = Informational status codes. Header part of request has been recieved, and server will try to comply with response.
 - 200’s = Success codes. Saying that a request was accepted. For an asyn processing of request
